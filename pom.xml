@@ -11,6 +11,12 @@
 	<groupId>st.soft.instr</groupId>
 	<artifactId>project-a</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>pom</packaging>
+	
+	<modules>
+		<module>project-b</module>
+	</modules>
+
 	<name>project-a</name>
 	<description>Spring Boot Maven Project A</description>
 	<properties>
@@ -60,5 +66,5 @@
 			</plugin>
 		</plugins>
 	</build>
-
+	
 </project>
