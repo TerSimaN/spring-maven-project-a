@@ -15,6 +15,7 @@
 	
 	<modules>
 		<module>project-b</module>
+		<module>project-c</module>
 	</modules>
 
 	<name>project-a</name>
