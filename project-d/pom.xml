@@ -14,7 +14,13 @@
 			<groupId>st.soft.instr</groupId>
 			<artifactId>project-c</artifactId>
 			<version>${project.version}</version>
+			<exclusions>
+				<exclusion>
+					<groupId>st.soft.instr</groupId>
+					<artifactId>project-b</artifactId>
+				</exclusion>
+			</exclusions>
 		</dependency>
 	</dependencies>
-	
+
 </project>
