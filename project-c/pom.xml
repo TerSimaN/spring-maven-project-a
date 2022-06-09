@@ -9,12 +9,12 @@
 	</parent>
 	<artifactId>project-c</artifactId>
 	
-	<!-- <dependencies>
+	<dependencies>
 		<dependency>
     		<groupId>st.soft.instr</groupId>
   			<artifactId>project-b</artifactId>
   			<version>${project.version}</version>
 		</dependency>
-	</dependencies> -->
+	</dependencies>
 	
 </project>
